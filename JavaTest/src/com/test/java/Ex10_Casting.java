@@ -62,7 +62,7 @@ public class Ex10_Casting {
 	//	b2 = s2; // s2 값을 복사 -> b2에 대입
 	// byte = short (큰형(short) -> 작은형(byte)에 대입 => 명시적 형변환 해야 함)
 	// => b2 = (byte)s2;
-	// byte = byte로 명시적 형변환 
+	// short = byte로 명시적 형변환 
 		b2 = (byte)s2;
 		System.out.println(b2); // 복제본 (Error)
 

@@ -18,7 +18,6 @@ public class Ex08_BufferedReader {
 		jac: java의 압축파일
 		*/
 		
-		
 		// 요구사항: 사용자로부터 문자 1개를 입력받아 화면에 출력하기
 		
 		// import 생성 단축키: ctrl + shift + O

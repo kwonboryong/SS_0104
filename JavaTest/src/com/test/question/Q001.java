@@ -26,13 +26,14 @@ public class Q001 {
 		
 		BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 		
-		String year = reader.readLine();
+		String bornYear = reader.readLine();
 		
-//		
-//		int age = 
-//		
-//		System.out.printf("나이: %d", age);
-//		
+		int thisYear = 2024;
+		
+		int age = bornYear - thisYear;
+		int result = Integer.parseInt(age);
+
+		System.out.printf("");
 		
 	}
 }
